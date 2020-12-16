@@ -6,7 +6,7 @@ This is a port scanner which is built in python
 Module dequired :- 
   * socket
   * IP   => pip3.6 install IPy
-  *argparse
+  * argparse
   
   How to use :-
    

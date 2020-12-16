@@ -3,9 +3,9 @@
 
 This is a port scanner which is built in python
 
-Module dequired :- 
+Module required :- 
   * socket
-  * IP   => pip3.6 install IPy
+  * IP                          => pip3.6 install IPy
   * argparse
   
   How to use :-
